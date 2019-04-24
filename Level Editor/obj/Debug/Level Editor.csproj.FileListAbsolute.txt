@@ -1,0 +1,10 @@
+C:\Users\shach\source\repos\Level Editor\Level Editor\obj\Debug\Level Editor.csprojAssemblyReference.cache
+C:\Users\shach\source\repos\Level Editor\Level Editor\obj\Debug\Level_Editor.Form1.resources
+C:\Users\shach\source\repos\Level Editor\Level Editor\obj\Debug\Level_Editor.Properties.Resources.resources
+C:\Users\shach\source\repos\Level Editor\Level Editor\obj\Debug\Level Editor.csproj.GenerateResource.cache
+C:\Users\shach\source\repos\Level Editor\Level Editor\obj\Debug\Level Editor.csproj.CoreCompileInputs.cache
+C:\Users\shach\source\repos\Level Editor\Level Editor\bin\Debug\Level Editor.exe.config
+C:\Users\shach\source\repos\Level Editor\Level Editor\bin\Debug\Level Editor.exe
+C:\Users\shach\source\repos\Level Editor\Level Editor\bin\Debug\Level Editor.pdb
+C:\Users\shach\source\repos\Level Editor\Level Editor\obj\Debug\Level Editor.exe
+C:\Users\shach\source\repos\Level Editor\Level Editor\obj\Debug\Level Editor.pdb
